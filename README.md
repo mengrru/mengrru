@@ -1,9 +1,11 @@
 
+```
 - 👋 Hi, I'm @mengrru, she / her
 - 👀 enjoy programming / drawing
 - 🌱 learning 6.824 / algorithm
 - 💞️ junior Ninbuta
 - 📫 mengrru✨outlook
+```
 
 Some tiny works：\[[make your Linmo](http://lm.mengru.space/linmo)\]
 <!---
